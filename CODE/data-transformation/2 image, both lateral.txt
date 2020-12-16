@@ -1,0 +1,3 @@
+CheXpert-v1.0-small/train/patient05974/study4/
+CheXpert-v1.0-small/train/patient17678/study12/
+CheXpert-v1.0-small/train/patient33890/study16/

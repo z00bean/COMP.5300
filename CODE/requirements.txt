@@ -1,0 +1,13 @@
+torch
+torchvision
+numpy
+matplotlib
+scikit-learn==0.20.3
+orion
+pandas
+Pillow
+tensorflow==1.15.4
+tensorboardX==1.6
+easydict
+opencv-python==4.0.0.21
+tqdm
